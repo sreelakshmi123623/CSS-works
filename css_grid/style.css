@@ -1,0 +1,22 @@
+.grid-container{
+
+    width: 75%;
+    height: 400px;
+
+    background-color:#0089ba;
+    border: 1px solid black;
+    display: grid;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    grid-template-columns: repeat(3,1fr);
+    /* grid-template-rows: 1fr 1fr 1fr; */
+    grid-template-rows: repeat(3,1fr);
+    padding: 20px;
+    gap: 3px;
+}
+
+.grid-item{
+    text-align: center;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(33,115,130,1) 1.4%, rgba(35,39,124,1) 90% );
+    /* background-color: #4e8397; */
+    border: 1px solid white;
+}

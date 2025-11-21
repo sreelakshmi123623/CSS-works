@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(57, 228, 206);
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width:60%;
+    min-height:300px;
+    border-radius:5px;
+    background-color: white;
+    border:1px solid black;
+    /* margin-left: auto;
+    margin-right: auto; */
+    box-shadow:2px 2px 2px rgb(92, 90, 90);
+}
+.card-header{
+    border-bottom:1px solid black;
+    padding:8px;
+    display:flex;
+    justify-content:space-between;
+}
+.card-body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.card-image{
+    width:50%;
+    height:450px;
+    border-right:1px solid rgb(103, 101, 101);
+    display: flex;
+    justify-content: center;
+}
+.card-content{
+    width:50%;
+    height:400px;
+    padding:20px;
+
+    
+}
+/* class-name and the tag that we need to modify (can take any single tag from a class in this method) */
+.card-image img{
+   width:50%;
+   height:370px;
+}
+/* class-name and the tag in it that need to modify */
+.card-content h2{
+    font-weight:300;
+}
+/* line-height for set the distance between lines */
+.card-content p{
+    line-height:30px;
+    /* for set the lines right and left in straight */
+    text-align: justify;
+}
+.footer{
+    display: flex;
+    justify-content:space-between;
+}
+.card-content button{
+    padding:10px;
+}
+.card a{
+    /* for remove the underline */
+    text-decoration: none;
+
+} 

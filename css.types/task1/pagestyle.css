@@ -1,0 +1,19 @@
+
+   .text-success{
+    text-align:right;
+    color:rgb(103, 225, 103);
+    background-color:rgb(197, 110, 200);
+   }
+   .text-grey{
+      color:rgb(122, 24, 81);
+       background-color:rgb(165, 163, 163);
+   }
+   .text-success1{
+    text-align:left;
+    color:rgb(103, 225, 103);
+    background-color:rgb(214, 34, 142);
+   }
+   .text-paragraph{
+      color:rgb(122, 24, 81);
+       background-color:rgb(164, 164, 241);
+   }

@@ -1,0 +1,45 @@
+.parent{
+    color:white;
+    background-color:rgb(34, 34, 102);
+    width:90%;
+    min-height:300px;
+    border:3px white solid;
+    border-radius:10px;
+
+}
+.child1{
+   color:white;
+   background-color:rgb(79, 64, 16);
+   width:90%;
+   height:80px;
+   border:2px white solid;
+   border-radius:10px;
+   text-align:right;
+}
+.child2{
+    color:white;
+    background-color:rgb(93, 18, 78);
+    width:60%;
+    height:80px;
+    border:2px white solid;
+    border-radius:10px;
+    text-align:center;
+}
+.child3{
+    color:white;
+    background-color:rgb(24, 24, 91);
+    width:40%;
+    height:80px;
+    border:2px white solid;
+    border-radius:10px;
+    text-align:left;
+}
+.parent2{
+    color:white;
+    background-color:rgb(118, 32, 118);
+    width:90%;
+    min-height:300px;
+    border:3px white solid;
+    border-radius:10px;
+
+}

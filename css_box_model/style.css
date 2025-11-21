@@ -1,0 +1,22 @@
+.top-section{
+    height:80px;
+    width:300px;
+    background-color:#a5286c;
+    text-align:center;
+    border:2px black solid;
+    border-radius:10px;
+    margin-left:480px;
+    margin-top:45px;
+}
+.footer{
+    color:white;
+    background-color:rgb(18, 55, 95);
+    text-align:center;
+    height:80px;
+    width:300px;
+    border:2px black solid;
+    margin-left:480px;
+    margin-top:300px;
+    border-radius:10px;
+
+}

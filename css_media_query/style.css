@@ -1,0 +1,26 @@
+/* body{
+    background-color: black;
+    color: white;
+}
+@media(max-width:500px){
+    h2{
+        color: chartreuse;
+        text-align: center;
+    }
+} */
+ body{
+    background-color: black;
+    color: white;
+ }
+ h3{
+    /* visibility: hidden; */
+    display: none;
+ }
+ @media(max-width:500px){
+    h1{
+        display:none;
+    }
+    h3{
+        display:block;
+    }
+ }

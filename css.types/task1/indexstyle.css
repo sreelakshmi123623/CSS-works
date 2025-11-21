@@ -1,0 +1,15 @@
+body {
+    background-color: lightpink;
+}
+.text-success {
+    text-align: right;
+    color: green;
+}
+.text-primary {
+    text-align: center;
+    color: blue;
+}
+.text-purple {
+    text-align: left;
+    color: purple;
+}

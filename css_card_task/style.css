@@ -1,0 +1,41 @@
+.parent{
+    width:250px;
+    height:470px;
+    background-color:#76b0e3 ;
+    border: 1px  solid black;
+     border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+     padding:15px; 
+     box-shadow:2px 2px 2px rgb(95, 93, 93);
+}
+.mainhead{
+    color:white;
+    text-align:center;
+    text-shadow:2px 2px 2px rgb(56, 54, 54); 
+
+}
+.image{
+    width:160px;
+    height:160px;
+    padding-left:46px;
+    border-radius:53% 47% 84% 16% / 40% 17% 83% 60% ;
+    
+}
+.heading{
+    color:white;
+    text-align:center;
+    text-shadow:2px 2px 2px rgb(56, 54, 54);
+}
+.details{
+    color:white;
+    text-align:center;
+    text-shadow:1px 1px 1px rgb(56, 54, 54); 
+}
+
+/* .footer{ 
+    color:white;
+    text-align:center;
+    text-shadow:1px 1px 1px rgb(56, 54, 54); }*/
+  

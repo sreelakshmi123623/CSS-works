@@ -1,0 +1,33 @@
+.left-box{
+    background-color:rgb(37, 37, 91);
+    color:white;
+    height:80px;
+    width:200px;
+    text-align:center;
+    margin-left:5px;
+    margin-top:10px;
+    border:2px white solid;
+    border-radius:10px;
+}
+.center-box{
+    background-color:rgb(37, 37, 91);
+    color:white;
+    height:80px;
+    width:200px;
+    text-align:center;
+    margin-left:600px;
+    margin-top:200px;
+    border:2px white solid;
+    border-radius:10px;
+}
+.right-box{
+    background-color:rgb(37, 37, 91);
+    color:white;
+    height:80px;
+    width:200px;
+    text-align:center;
+    margin-left:1300px;
+    margin-top:250px;
+    border:2px white solid;
+    border-radius:10px;
+}

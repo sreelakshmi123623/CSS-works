@@ -1,0 +1,25 @@
+.flex-container{
+    width: 80%;
+    min-height:400px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.flex-item{
+    width: 30%;
+    height: 200px;
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px solid white;
+}
+@media(max-width:500px){
+    .flex-container{
+        flex-direction: column;
+        /* opposite: normally we use align-item for vertically setting it ,here we use justify-content for vertically setting it */
+        /* align-items: center; */
+    }
+    .flex-item{
+        width: 75%;
+    }
+}
